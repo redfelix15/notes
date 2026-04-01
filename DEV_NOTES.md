@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Consolidated duplicate helper functions
 - Verified API endpoint response schema
 - Reviewed open issues, added labels
+
+## 2026-04-01
+- Refactored module structure for clarity
+- Resolved deprecation warnings
